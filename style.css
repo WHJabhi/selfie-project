@@ -20,5 +20,6 @@
 }
 
 body{
+    background-color: blueviolet;
     background-image: linear-gradient (to right top, #2ca747, #d316da, #da151f, #d1e614, #0ddde4);
 }
