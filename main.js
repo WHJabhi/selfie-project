@@ -27,7 +27,7 @@ function speak(){
     setTimeout(function(){
         take_snapshot();
         Save();
-    },5000);
+    }, 5000);
 }
 
 camera = document.getElementById("camera");
@@ -50,4 +50,6 @@ function Save(){
     link.href = image;
     link.click();
 }
+
+
 

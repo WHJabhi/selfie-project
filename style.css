@@ -20,9 +20,5 @@
 }
 
 body{
-    background-image: linear-gradient(to right top, #2ca747, #d316da, #da151f, #d1e614, #0ddde4);
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border:10px solid blanchedalmond;
+    background-image: linear-gradient (to right top, #2ca747, #d316da, #da151f, #d1e614, #0ddde4);
 }
